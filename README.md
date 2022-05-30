@@ -15,7 +15,7 @@ operativo. Si no cuentas con ella puedes instalarla
 en el siguiente link: []
 
 ### 🔗 Links
-[![Instalar Xampp](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.apachefriends.org/es/download.html)
+[![Instalar Xampp]](https://www.apachefriends.org/es/download.html)
 
 
 #### Habiendo instalado todo sigue estos pasos adicionales:
