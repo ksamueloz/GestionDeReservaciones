@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 50px;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: rgba(43, 43, 43, .25);
+}
+
+.actions {
+    width: 95%;
+    /*height: 100px;*/
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    /* background-color: blueviolet; */
+}
+
+.actions .title {
+    width: 100%;
+    text-align: center;
+    /* background-color: red; */
+}
+
+.actions button {
+    width: 280px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.container-reservation {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.container-reservation-2 {
+    margin-top: 30px;
+    padding: 15px;
+    margin: 15px 0px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.container-form {
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container-form form {
+    width: 50%;
+}
